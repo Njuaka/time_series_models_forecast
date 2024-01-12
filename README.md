@@ -28,7 +28,7 @@ the task consist of doing the following:
 
 ## USAGE
   ### Data
-  The data is an AUCKLAND weather data
+  The data is a cycling data from AUCKLAND New Zealand
 
 ## CONTRIBUTION
     - fork the project
